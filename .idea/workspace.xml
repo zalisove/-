@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0bedcea-4aeb-4de0-9ff3-fab2ef1bab16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/1.1.c" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/1.1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/1.1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/1.1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/1.1.layout" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/1.1.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/1.1.o" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/1.1.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/5.3.c" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/5.3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/5.3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/5.3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/5.3.o" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/5.3.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/Makefile.win" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/Makefile.win" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/bonus 1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/bonus 1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/bonus 1.layout" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/bonus 1.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/bonus 1.o" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/bonus 1.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/laba 5.3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/laba 5.3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laboratorna/laba 5/laba 5.3.layout" beforeDir="false" afterPath="$PROJECT_DIR$/laboratorna/laba 5/laba 5.3.layout" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Project_java" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laboratorna" />
+  </component>
+  <component name="ProjectId" id="1WhyzK5osZ4mJjnYj3PYSeytrMQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.foto" />
+      <recent name="image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="ScrollDemo2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="components.ScrollDemo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="components.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="MAIN_CLASS_NAME" value="com.foto.main" />
+      <module name="labu" />
+      <option name="PROGRAM_PARAMETERS" value="yellow" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0bedcea-4aeb-4de0-9ff3-fab2ef1bab16" name="Default Changelist" comment="" />
+      <created>1579616386266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579616386266</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
